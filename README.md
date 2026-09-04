@@ -20,7 +20,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - [ ] **Unity (Node 1)** & Pressurized Mating Adapters (PMAs)
 - [ ] **Destiny** (US Laboratory)
 - [ ] **Harmony (Node 2)**
-- [ ] **Tranquility (Node 3)** & **Cupola** Observatory
+- [ ] **Tranquility (Node 3)** & Cupola Observatory
 - [ ] **Columbus** (European Laboratory)
 - [ ] **Leonardo** (Permanent Multipurpose Module)
 
