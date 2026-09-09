@@ -16,7 +16,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 
 ## Expected Features in First Complete Release
 
-### Docking Ports
+## Docking Ports
 
 - **Androgynous Peripheral Attach System (APAS-95)**
   - [ ] APAS-95 Active (Active Docking Ring - Used by Space Shuttle)
@@ -43,7 +43,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
   - [ ] NDS Block 1 Active (Active Soft/Hard Capture - Crew Dragon, Starliner)
   - [ ] NDS Passive (Passive Docking Ring - International Docking Adapter / IDA)
 
-### United States Orbital Segment (USOS)
+## United States Orbital Segment (USOS)
 
 ### Pressurized Modules, Adapters & Connecting Nodes
 - [ ] **Unity (Node 1)**
@@ -85,7 +85,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - [ ] **ExPRESS Logistics Carriers** (ELC-1, ELC-2, ELC-3, ELC-4)
 - [ ] **External Stowage Platforms** (ESP-1, ESP-2, ESP-3)
 
-### Russian Orbital Segment (ROS)
+## Russian Orbital Segment (ROS)
 
 ### Pressurized Modules & Core Hubs
 - [ ] **Zarya (FGB)** (Functional Cargo Block / First ISS module)
