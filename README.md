@@ -45,7 +45,8 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ### United States Orbital Segment (USOS)
 
 ###  Pressurized Modules & Connecting Nodes
-- [ ] **Unity (Node 1)** & Pressurized Mating Adapters (PMAs)
+- [ ] **Unity (Node 1)**
+- [ ] **Pressurized Mating Adapter (PMA)**
 - [ ] **Destiny** (US Laboratory)
 - [ ] **Harmony (Node 2)**
 - [ ] **Tranquility (Node 3)** & Cupola Observatory
