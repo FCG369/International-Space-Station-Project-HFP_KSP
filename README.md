@@ -2,9 +2,9 @@
 
 ## System Requirements & Recommended Mods
 
-This mod is designed from the ground up for hyper-realistic **Real Solar System (RSS)** and **Realism Overhaul (RO)** playthroughs. 
+This mod is designed from the ground up for hyper-realistic **Real Solar System (RSS)** and **Realism Overhaul (RO)** playthroughs, but is also hybridly designed to suit the Stock game values.
 
-### Core Dependencies
+### Recommended Mods
 - **Realism Overhaul (RO)** (Required for correct operational mass, scale, and performance)
 - **Real Solar System (RSS)** (Required for proper orbital parameters and physics scaling)
 - **Textures Unlimited (TU)** (Required for hyper-realistic metallic PBR shaders and window reflections)
