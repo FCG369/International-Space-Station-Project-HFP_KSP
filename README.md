@@ -15,6 +15,33 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 
 ##  Expected Features in First Complete Release
 
+### Docking Ports
+
+- **Androgynous Peripheral Attach System (APAS-95)**
+  - [ ] APAS-95 Active (Active Docking Ring - Used by Space Shuttle)
+  - [ ] APAS-95 Passive (Passive Docking Ring - PMA-2 & PMA-3 original ports)
+
+- **Common Berthing Mechanism (CBM)**
+  - [ ] PCBM (Passive Common Berthing Mechanism)
+  - [ ] ACBM Type I (Active Common Berthing Mechanism)
+  - [ ] ACBM Type II (Active Common Berthing Mechanism)
+
+- **International Berthing Docking Mechanism (IBDM)**
+  - [ ] IBDM Active Assembly (Soft Capture System)
+  - [ ] IBDM Passive Assembly (Passive Interface)
+
+- **Sistema Stykovki i Vnutrennego Perekhoda (SSVP)**
+  - [ ] SSVP-G4000 Active (Standard Probe - Soyuz, Progress)
+  - [ ] SSVP-G4000 Passive (Standard Drogue - Russian Segment ports)
+  - [ ] SSVP-M8000 Active (Hybrid Probe - Modules Structural Mating)
+  - [ ] SSVP-M8000 Passive (Hybrid Drogue - Modules Structural Mating)
+  - [ ] SSPA-GB Active (Node Variant Probe - Prichal Module)
+  - [ ] SSPA-GB Passive (Node Variant Drogue - Prichal Module)
+
+- **NASA Docking System (NDS / IDSS)**
+  - [ ] NDS Block 1 Active (Active Soft/Hard Capture - Crew Dragon, Starliner)
+  - [ ] NDS Passive (Passive Docking Ring - International Docking Adapter / IDA)
+
 ### United States Orbital Segment (USOS)
 
 ###  Pressurized Modules & Connecting Nodes
@@ -47,7 +74,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - [ ] **ExPRESS Logistics Carriers** (ELC-1, ELC-2, ELC-3, ELC-4)
 - [ ] **External Stowage Platforms** (ESP-1, ESP-2, ESP-3)
 
-## Russian Orbital Segment (ROS)
+### Russian Orbital Segment (ROS)
 
 ### Pressurized Modules & Core Hubs
 - [ ] **Zarya (FGB)** (Functional Cargo Block / First ISS module)
