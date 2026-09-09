@@ -32,7 +32,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
   - [ ] IBDM Passive Assembly (Passive Interface)
 
 - **Sistema Stykovki i Vnutrennego Perekhoda (SSVP)**
-  - [ ] SSVP-G4000 Active (Standard Probe - Soyuz, Progress, ATV)
+  - [ ] SSVP-G4000 Active (Standard Probe - Soyuz, Progress)
   - [ ] SSVP-G4000 Passive (Standard Drogue - Russian Segment ports)
   - [ ] SSVP-M8000 Active (Hybrid Probe - Modules Structural Mating)
   - [ ] SSVP-M8000 Passive (Hybrid Drogue - Modules Structural Mating)
@@ -119,3 +119,11 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - [ ] **JAXA HTV (Kounotori)** (Historic Japanese cargo vehicle)
 - [ ] **JAXA HTV-X** (Next-generation Japanese cargo vehicle)
 - [ ] **ESA ATV (Automated Transfer Vehicle)** (Historic European SSVP-docked cargo vehicle)
+
+## Future Commercial Segment & Extensions (Planned)
+
+### Axiom Commercial Segment (Axiom Space Orbital Complex)
+- [ ] **AxH1 (Axiom Hub One)** (Commercial crew quarters and habitation module)
+- [ ] **AxR (Axiom Research Module)** (Commercial laboratory and manufacturing facility)
+- [ ] **AxH2 (Axiom Hub Two)** (Expanded habitation and operations module)
+- [ ] **AxEO (Axiom Earth Observatory)** (Large-windowed cupola/observatory module)
