@@ -19,7 +19,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ## Docking Ports
 
 - **Androgynous Peripheral Attach System (APAS-95)**
-  [x] APAS-95 Active (Active Docking Ring - Used by Space Shuttle)
+  - ✅ APAS-95 Active (Active Docking Ring - Used by Space Shuttle)
   - ⏳ APAS-95 Passive (Passive Docking Ring - PMA-1, PMA-2 & PMA-3 original structural interfaces)
 
 - **Common Berthing Mechanism (CBM)**
