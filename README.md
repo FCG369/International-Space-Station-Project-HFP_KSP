@@ -19,7 +19,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ## Docking Ports
 
 - **Androgynous Peripheral Attach System (APAS-95)**
-  - [/] APAS-95 Active (Active Docking Ring - Used by Space Shuttle)
+  - ⏳ APAS-95 Active (Active Docking Ring - Used by Space Shuttle)
   - [ ] APAS-95 Passive (Passive Docking Ring - PMA-1, PMA-2 & PMA-3 original structural interfaces)
 
 - **Common Berthing Mechanism (CBM)**
@@ -88,7 +88,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ## Russian Orbital Segment (ROS)
 
 ### Pressurized Modules & Core Hubs
-- [ ] **Zarya (FGB)** (Functional Cargo Block / First ISS module)
+- ⏳ **Zarya (FGB)** (Functional Cargo Block / First ISS module)
 - [ ] **Zvezda (SM)** (Service Module / Core life support and living quarters)
 - [ ] **Prichal (UM)** (Node Module / Spherical multi-port connecting hub)
 
