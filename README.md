@@ -46,7 +46,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ## United States Orbital Segment (USOS)
 
 ### Pressurized Modules, Adapters & Connecting Nodes
-- [ ] **Unity (Node 1)**
+- ⏳ **Unity (Node 1)**
 - [ ] **Pressurized Mating Adapter 1 (PMA-1)** (Structural bridge between Unity and Zarya)
 - [ ] **Pressurized Mating Adapter 2 (PMA-2)** (Forward Shuttle/IDA Docking interface on Harmony)
 - [ ] **Pressurized Mating Adapter 3 (PMA-3)** (Zenith Shuttle/IDA Docking interface on Harmony/Tranquility)
@@ -89,7 +89,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 
 ### Pressurized Modules & Core Hubs
 - ⏳ **Zarya (FGB)** (Functional Cargo Block / First ISS module)
-- [ ] **Zvezda (SM)** (Service Module / Core life support and living quarters)
+- ⏳ **Zvezda (SM)** (Service Module / Core life support and living quarters)
 - [ ] **Prichal (UM)** (Node Module / Spherical multi-port connecting hub)
 
 ### Research & Docking Modules
