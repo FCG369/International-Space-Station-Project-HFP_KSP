@@ -1,5 +1,10 @@
 # International Space Station Project: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
 
+## Release 0.1.0 Progress
+-Made APAS-95 (missing colliders)
+-Made Zarya(FGB) base
+-Started Unity's main body
+
 ## System Requirements & Recommended Mods
 
 This mod is designed from the ground up for hyper-realistic **Real Solar System (RSS)** and **Realism Overhaul (RO)** playthroughs, but is also hybridly designed to suit the Stock game values.
