@@ -2,7 +2,7 @@
 
 ## Release 0.1.0 Progress
 - Made APAS-95 (missing colliders)
-- Made Zarya(FGB) base
+- Made Zarya (FGB) base
 - Started Unity's main body
 
 ## Release 0.1.0 Features
