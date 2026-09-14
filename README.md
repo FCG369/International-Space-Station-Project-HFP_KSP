@@ -1,16 +1,16 @@
 # International Space Station Project: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
 
+## Release 0.1.0 Progress
+- Made APAS-95 (missing colliders)
+- Made Zarya(FGB) base
+- Started Unity's main body
+
 ## Release 0.1.0 Features
 - Zarya (FGB)
 - Zvezda (SM)
 - Unity (Node 1)
 - APAS-95
 - Common Berthing Mechanism (CBM)
-
-## Release 0.1.0 Progress
-- Made APAS-95 (missing colliders)
-- Made Zarya(FGB) base
-- Started Unity's main body
 
 ## System Requirements & Recommended Mods
 
