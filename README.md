@@ -74,7 +74,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ### Japanese Experiment Module (Kibō / JEM)
 - [ ] **JEM-PM** (Main Pressurized Laboratory)
 - [ ] **JEM-ELM-PS** (Experiment Logistics Module - Pressurized Section)
-- [ ] **JEM-EF** (Exposed Facility / External "Back Porch")
+- [ ] **JEM-EF** (Exposed Facility)
 
 ### Integrated Truss Structure (ITS) & Unpressurized Assets
 - [ ] **Z1 Truss** (Early framework & gyroscopes)
