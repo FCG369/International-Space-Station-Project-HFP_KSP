@@ -1,4 +1,4 @@
-# International Space Station Project: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
+# International Space Station HFP: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
 
 ## Release 0.1.0 Progress
 - Made APAS-95 (missing colliders)
