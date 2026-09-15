@@ -11,6 +11,8 @@
 - Unity (Node 1)
 - APAS-95
 - Common Berthing Mechanism (CBM)
+- Pressurized Mating Adapter-1 (PMA-1)
+- Pressurized Mating Adapter-2 (PMA-2)
 
 ## System Requirements & Recommended Mods
 
