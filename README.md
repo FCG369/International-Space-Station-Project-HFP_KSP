@@ -30,7 +30,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - Leonardo (PMM)
 - BEAM (Bigelow Expandable Activity Module)
 - Bishop Airlock (Nanoracks)
-- PMA-1 - PMA-2 PMA-3 (Pressurized Mating Adapter)
+- PMA-1 - PMA-2 - PMA-3 (Pressurized Mating Adapter)
 - IDA (International Docking Adapter)
 
 #### Pressurized Modules - Russian Orbital Segment (ROS)
