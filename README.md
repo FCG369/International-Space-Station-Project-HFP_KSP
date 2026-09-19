@@ -15,7 +15,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - **TweakScale Support** (Full native integration to adjust structural components and sizing seamlessly)
 - **Realism Overhaul Configurations** (Included natively for accurate fuel types, life support resources, and part physics)
 
-### Component List
+## Component List
 
 #### Pressurized Modules - United States Orbital Segment (USOS)
 
