@@ -5,6 +5,10 @@
 The first mod EVER designed to replicate the ENTIRE International Space Station to the finest detail!
 This mod is designed from the ground up for hyper-realistic **Real Solar System (RSS)** and **Realism Overhaul (RO)** playthroughs, but is also hybridly designed to suit the stock game values.
 
+## Roadmap
+
+Secret!
+
 ### Recommended Mods
 - **Realism Overhaul (RO)** (Required for correct operational mass, scale, and performance)
 - **Real Solar System (RSS)** (Required for proper orbital parameters and physics scaling)
