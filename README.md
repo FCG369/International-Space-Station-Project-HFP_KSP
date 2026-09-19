@@ -37,12 +37,27 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 
 - Zarya (FGB)
 - Zvezda (SM)
-- Poisk (MRM-2)
-- Rassvet (MRM-1)
-- Nauka (MLM)
-- Prichal
+- Pirs (DC-1 - Historical Docking Compartment)*
+- Poisk (MRM-2 - Mini-Research Module 2)
+- Rassvet (MRM-1 - Mini-Research Module 1)
+- Nauka (MLM - Multipurpose Laboratory Module)
+- Prichal (UM - Node Module)
 
-#### Integrated Truss Structure
+#### Crew & Cargo Spacecraft
+
+- Soyuz-MS (Russian Crew)
+- Progress-MS (Russian Cargo)
+- SpaceX Crew Dragon (USOS Crew)
+- SpaceX Cargo Dragon (USOS Cargo)
+- SpaceX Dragon 1 (Legacy / USOS Cargo)
+- Northrop Grumman Cygnus (USOS Cargo)
+- H-II Transfer Vehicle (HTV / Kounotori - Legacy JAXA Cargo)
+- H-II Transfer Vehicle X (HTV-X - Modern JAXA Cargo)
+- Automated Transfer Vehicle (ATV - Legacy ESA Cargo)
+- Boeing Starliner (CST-100 - USOS Crew)
+- Multi-Purpose Logistics Module (MPLM - Historical Cargo Container)
+
+#### Integrated Truss Structure & External Platforms
 
 - Z1 Truss
 - S0 - S1 - S3 - S4 - S5 - S6
@@ -53,6 +68,10 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - Alpha-Magnetic Spectrometer (AMS-02)
 - ELC (ExPRESS Logistics Carrier)
 - ESP (External Stowage Platform)
+- Kibō Exposed Facility (JEM-EF)
+- Columbus External Payload Facility (Columbus-EPF)
+- Bartolomeo Platforms (Airbus External Payload Hosting Facility)
+- CETA Carts (Crew and Equipment Translation Aid)
 
 #### Robotics
 
@@ -60,11 +79,12 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - Dextre (SPDM)
 - European Robotic Arm (ERA)
 
-#### Misc
+#### Misc & EVA Hardware
 
 - Flight Releasable Grapple Fixture (FRGF)
 - Power Data Grapple Fixture (PDGF)
--Strela Cranes (Russian Cargo Cranes)
-- Singular Handrail (Placeable in EVA)*
+- Strela Cranes (Russian Cargo Cranes)
+- Singular Handrail (Placeable in EVA)**
 
-*Note: The Handrails are ALREADY included in the mod's modules, this is just for versatility.
+*\*Note: Pirs was deorbited in 2021 to make room for Nauka, included for historical assembly runs.*
+*\*\*Note: The Handrails are ALREADY included in the mod's modules, this is just for versatility.*
