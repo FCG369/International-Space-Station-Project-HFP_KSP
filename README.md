@@ -20,7 +20,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 
 ### Future Features
 - Fully designed IVAs (Internal Vehicular Activities)
-- Texture Switching (To simulate historical variants, such as adding insulation blankets on Z1 gyroscopes)
+- Texture Switching (To simulate historical variants, such as adding insulation blankets to Z1 gyroscopes)
 
 ## Component List
 
