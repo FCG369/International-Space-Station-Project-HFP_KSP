@@ -44,14 +44,27 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 
 #### Integrated Truss Structure
 
+- Z1 Truss
 - S0 - S1 - S3 - S4 - S5 - S6
 - P1 - P3 - P4 - P5 - P6
 - Heat Rejection System (HRS)
 - Mobile Base System (MBS)
 - iROSA Solar Arrays
+- Alpha-Magnetic Spectrometer (AMS-02)
+- ELC (ExPRESS Logistics Carrier)
+- ESP (External Stowage Platform)
 
 #### Robotics
 
 - Canadarm2 (SSRMS)
 - Dextre (SPDM)
 - European Robotic Arm (ERA)
+
+#### Misc
+
+- Flight Releasable Grapple Fixture (FRGF)
+- Power Data Grapple Fixture (PDGF)
+-Strela Cranes (Russian Cargo Cranes)
+- Singular Handrail (Placeable in EVA)*
+
+*Note: The Handrails are ALREADY included in the mod's modules, this is just for versatility.
