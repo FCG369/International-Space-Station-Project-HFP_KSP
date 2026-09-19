@@ -1,4 +1,4 @@
-# International Space Station HFP: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
+# International Space Station System: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
 
 ## System Requirements & Recommended Mods
 
@@ -14,6 +14,10 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 ### Built-in Configurations
 - **TweakScale Support** (Full native integration to adjust structural components and sizing seamlessly)
 - **Realism Overhaul Configurations** (Included natively for accurate fuel types, life support resources, and part physics)
+
+### Future Features
+- Fully designed IVAs
+- Texture Switching (To simulate
 
 ## Component List
 
