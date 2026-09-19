@@ -19,8 +19,8 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - **Realism Overhaul Configurations** (Included natively for accurate fuel types, life support resources, and part physics)
 
 ### Future Features
-- Fully designed IVAs
-- Texture Switching (To simulate
+- Fully designed IVAs (Internal Vehicular Activities)
+- Texture Switching (To simulate historical variants, such as adding insulation blankets on Z1 gyroscopes)
 
 ## Component List
 
